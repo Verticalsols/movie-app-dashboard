@@ -1,3 +1,22 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  
+  <h3 align="center">Movies App DashBoard</h3>
+
+  <p align="center">
+    Built with React
+    <a href="https://bh-movies.netlify.app/">View Demo</a>
+  </p>
+</div>
+
+### Built With
+
+- [![React][react.js]][react-url]
+- [![Bootstrap][bootstrap.com]][bootstrap-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
