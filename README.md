@@ -5,7 +5,7 @@
   <h3 align="center">Movies App DashBoard</h3>
 
   <p align="center">
-    <a href="https://raorizwan.com/app">View Demo</a>
+    <a href="https://movie-app-dashboard.vercel.app/">View Demo</a>
   </p>
 </div>
 
